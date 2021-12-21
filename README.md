@@ -23,7 +23,7 @@ Various preprocessing steps were used such as: tokenization, remove punctuation 
 
 ### Tools:
 
-Numpy and Pandas for data manipulation
-Scikit-learn for modeling
-Matplotlib and Seaborn for plotting
-NLTK and Gensim for topic modeling
+- Numpy and Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib and Seaborn for plotting
+- NLTK and Gensim for topic modeling
